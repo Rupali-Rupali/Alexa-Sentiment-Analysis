@@ -1,1 +1,7 @@
 # Alexa-Sentiment-Analysis
+# Business Problem/Objective
+# DatA lOADING
+# DATA TRANSFORMATION
+# DATA EXPLORATION
+# DATA MODELLING
+# DATA EVALUATION
