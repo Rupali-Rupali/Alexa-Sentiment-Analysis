@@ -1,9 +1,13 @@
 numpy
-matplotlib
+pandas
 seaborn
+torch
 scikit-learn
 wordcloud
 nltk
 xgboost
 streamlit
 flask
+matplotlib
+ipykernel
+
